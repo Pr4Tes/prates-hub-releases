@@ -2,16 +2,16 @@
 
 Central de aplicativos para Windows x64. [Baixe a versão mais recente](https://github.com/Pr4Tes/prates-hub-releases/releases/latest).
 
-Use o **Setup** para instalar por usuário e criar atalhos no menu Iniciar e na área de trabalho. Ou extraia o ZIP e abra PratesHub.exe. O .NET já acompanha o pacote. Windows 10 x64 ou mais recente; Cam Lite exige Windows 11.
+A versão 1.2.0 traz biblioteca em cartões ou tabela, filtros com contadores, busca, favoritos, ordenação, temas claro/escuro e bandeja opcional. Inclui detecção de programas instalados com revisão, central de downloads com progresso, velocidade, previsão, pausa, cancelamento e nova tentativa, histórico e relatório local.
 
-A versão 1.1.0 inclui atualizar todos com seleção e execução em sequência; fontes de terceiros por GitHub Releases; novidades por aplicativo; reparo de instalação; ícones, lista compacta e ordenação por arrastar; instalador do próprio Hub.
+Backup e restauração do catálogo guardam somente metadados portáteis, sem senhas, caminhos deste PC ou dados internos dos aplicativos. Backup automático opcional em pasta escolhida. Para Google Drive, escolha uma pasta sincronizada pelo Google Drive para Desktop; o Hub não conecta diretamente sua conta.
 
-O catálogo inicial reúne YT Downloader, Cam Lite e Prates LAN. Adicione seus outros programas pelo botão Adicionar. Para terceiros, configure o repositório público oficial e o nome/padrão do instalador EXE/MSI. O Hub exige uma correspondência única e SHA-256 publicado. As telas do fornecedor podem aparecer; reparo de terceiros depende das opções do instalador.
+Use o Setup para instalar por usuário e criar atalhos. Ou extraia o ZIP e abra PratesHub.exe. O .NET acompanha o pacote. Windows 10 x64 ou mais recente; Cam Lite exige Windows 11.
 
-As atualizações Prates e do próprio Hub usam manifestos assinados e SHA-256. A consulta pode ser automática ao abrir. A fila pede uma confirmação inicial e para quando houver pedido de reinício ou versão não confirmada. Cancelar não encerra à força um instalador já aberto.
+Catálogo inicial: YT Downloader, Cam Lite e Prates LAN. Adicione outros programas a qualquer momento. Atualizar todos permite revisar a seleção e executa em sequência. Inclui notas de versão e reparo. Fontes de terceiros por GitHub Releases exigem repositório público oficial, instalador EXE/MSI compatível, correspondência única e SHA-256 publicado.
 
-Remover só do Hub preserva o aplicativo e permite restaurar a entrada. Desinstalar do PC usa o desinstalador do Windows ou remove os portáteis registrados pelo Hub. Escolha preservar ou apagar configurações conhecidas a cada desinstalação. O Hub preserva vídeos, documentos, backups exportados e arquivos desconhecidos.
+Atualizações Prates e do próprio Hub usam manifestos assinados e SHA-256. A consulta pode ser automática ao abrir; a instalação pede confirmação. A fila para quando houver reinício pendente ou versão não confirmada. Cancelar não encerra à força instaladores abertos.
 
-O catálogo da versão 1.0 é migrado com preservação dos itens e cópia anterior ao salvar. O atualizador 1.0 continua recebendo o executável 1.1 pelo mesmo canal. Código do proprietário mantido em repositório privado; catálogo e caminhos pessoais ficam neste PC.
+Remover só do Hub preserva o aplicativo e permite restaurar a entrada. Desinstalar do PC usa o desinstalador do Windows ou remove portáteis registrados pelo Hub. Escolha preservar ou apagar configurações conhecidas a cada desinstalação. Vídeos, documentos, backups exportados e arquivos desconhecidos são preservados.
 
-Licenças e instruções acompanham o pacote. Consulte as notas da versão e SHA256SUMS-PUBLIC.txt nos anexos.
+Catálogos anteriores são migrados preservando itens. O atualizador existente continua usando o mesmo canal. Código do proprietário em repositório privado; catálogo pessoal fica neste PC. Licenças, notas da versão e SHA256SUMS-PUBLIC.txt acompanham os anexos.
