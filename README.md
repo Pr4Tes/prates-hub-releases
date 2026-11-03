@@ -1,10 +1,10 @@
-# Prates Hub 1.4.0
+# Prates Hub 1.4.1
 
 Um hub simples para instalar, abrir e atualizar seus aplicativos no Windows.
 
-Uma tela de aplicativos. Use Adicionar para incluir um programa manualmente, por link do GitHub ou reconhecer os instalados. Use Verificar para consultar versões do Hub e dos aplicativos.
+Uma tela de aplicativos. Use Adicionar para incluir um programa manualmente, por link do GitHub ou reconhecer os instalados. Use Verificar atualizações dos apps para consultar os aplicativos. A verificação manual e o botão para atualizar o Hub ficam somente em Configurações.
 
-Configurações: pasta de downloads, pasta para novas instalações Prates, aparência clara/escura e consulta de atualizações ao abrir. Instalações existentes mantêm seu destino. Instaladores de terceiros podem solicitar o local na própria janela.
+Configurações: pasta para novas instalações Prates, aparência clara/escura e consulta de atualizações ao abrir. Instalações existentes mantêm seu destino. Instaladores de terceiros podem solicitar o local na própria janela.
 
 Sem abas de downloads, histórico ou backup. Progresso e cancelamento no rodapé. Dados anteriores são preservados; não há novos backups automáticos ou histórico de uso.
 
