@@ -1,4 +1,4 @@
-# Prates Hub 1.5.0
+# Prates Hub 1.5.1
 
 Um hub simples para instalar, abrir e atualizar seus aplicativos no Windows.
 
