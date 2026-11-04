@@ -1,6 +1,8 @@
-# Prates Hub 1.4.1
+# Prates Hub 1.5.0
 
 Um hub simples para instalar, abrir e atualizar seus aplicativos no Windows.
+
+Visual inspirado no ResetExplode: fundo monocromático, painel lateral e cartões arredondados. Catálogo inicial: YT Downloader, Cam Lite, Desk LAN, ResetExplode e Upscayl. Os dois novos aplicativos são acrescentados aos catálogos existentes sem restaurar entradas removidas.
 
 Uma tela de aplicativos. Use Adicionar para incluir um programa manualmente, por link do GitHub ou reconhecer os instalados. Use Verificar atualizações dos apps para consultar os aplicativos. A verificação manual e o botão para atualizar o Hub ficam somente em Configurações.
 
@@ -10,6 +12,8 @@ Sem abas de downloads, histórico ou backup. Progresso e cancelamento no rodapé
 
 Remover do Hub preserva o programa. Desinstalar usa o desinstalador do Windows ou remove somente portáteis registrados e conferidos. Escolha preservar ou apagar configurações em cada desinstalação. Arquivos pessoais e desconhecidos são preservados.
 
-Downloads Prates e do Hub exigem assinatura e SHA-256. Terceiros exigem release estável, instalador EXE/MSI compatível e SHA-256 publicado. Instalar sempre pede confirmação. Cancelar aguarda o instalador aberto terminar.
+Downloads Prates e do Hub exigem assinatura e SHA-256. Terceiros exigem versão oficial e hash publicado. ResetExplode usa o executável portátil oficial com SHA-256; o Hub copia o arquivo sem executá-lo durante a instalação. Upscayl usa o instalador Windows oficial, conferido por SHA-256 ou SHA-512 do latest.yml da mesma versão. Instalar sempre pede confirmação. Cancelar aguarda o instalador aberto terminar.
+
+Fontes oficiais de terceiros: https://github.com/GustavoReset/ResetExplode e https://github.com/upscayl/upscayl . Os programas são baixados dos respectivos projetos; seus executáveis não acompanham a distribuição do Hub. O novo desenho foi implementado no Hub, sem copiar código ou imagens desses projetos.
 
 Windows 10 x64 ou superior; Cam Lite exige Windows 11. Setup ou ZIP portátil, com .NET incluso. Catálogos anteriores preservados. Fontes privadas; dados pessoais e chaves privadas não acompanham a entrega.
