@@ -1,6 +1,10 @@
-# Prates Hub 1.5.1
+# Prates Hub 1.6.0
 
 Um hub simples para instalar, abrir e atualizar seus aplicativos no Windows.
+
+Na versão 1.6.0, a grade se adapta à janela e à escala do Windows, com cartões compactos, ícones oficiais e controles que acompanham os temas claro e escuro. A última consulta fica visível na biblioteca. Instalações mostram progresso no cartão; Cancelar interrompe o download e as próximas instalações da fila, aguardando qualquer instalador já aberto terminar.
+
+O reconhecimento consulta registros do Windows, App Paths, pastas padrão conhecidas e a pasta de instalação configurada. Vínculos manuais são preservados; instalações ambíguas precisam de seleção manual. Não há varredura geral do disco. Os ícones de terceiros e suas licenças estão relacionados em IconSources.txt.
 
 Visual inspirado no ResetExplode: fundo monocromático, painel lateral e cartões arredondados. Catálogo inicial: YT Downloader, Cam Lite, Desk LAN, ResetExplode e Upscayl. Os dois novos aplicativos são acrescentados aos catálogos existentes sem restaurar entradas removidas.
 
