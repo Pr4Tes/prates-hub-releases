@@ -1,14 +1,16 @@
-# Prates Hub 1.6.1
+# Prates Hub 1.7.0
 
 Um hub simples para instalar, abrir e atualizar seus aplicativos no Windows.
 
-Na versão 1.6.1, a grade se adapta à janela e à escala do Windows, com cartões compactos, ícones oficiais e controles que acompanham os temas claro e escuro. A última consulta fica visível na biblioteca. Instalações mostram progresso no cartão; Cancelar interrompe o download e as próximas instalações da fila, aguardando qualquer instalador já aberto terminar.
+Na versão 1.7.0, a biblioteca usa cartões mais simples e filtros recolhidos. Portáteis instalados pelo Hub são conferidos antes de abrir; arquivos alterados são bloqueados sem exclusão. Os estados distinguem arquivo ausente, versão desconhecida e atualização confirmada. Operações do mesmo programa são bloqueadas entre janelas e catálogos.
+
+Teclado: Tab / Shift+Tab, Enter nos detalhes, Ctrl+F para buscar, Escape para limpar, F5 para consultar versões e Ctrl+, para configurações. Ações têm nomes acessíveis e indicação de foco. A grade continua adaptada à janela e à escala do Windows.
 
 O reconhecimento consulta registros do Windows, App Paths, pastas padrão conhecidas e a pasta de instalação configurada. Vínculos manuais são preservados; instalações ambíguas precisam de seleção manual. Não há varredura geral do disco. Os ícones de terceiros e suas licenças estão relacionados em IconSources.txt.
 
 Visual inspirado no ResetExplode: fundo monocromático, painel lateral e cartões arredondados. Catálogo inicial: YT Downloader, Cam Lite, Desk LAN, ResetExplode e Upscayl. Os dois novos aplicativos são acrescentados aos catálogos existentes sem restaurar entradas removidas.
 
-Uma tela de aplicativos. Use Adicionar para incluir um programa manualmente, por link do GitHub ou reconhecer os instalados. Use Verificar atualizações dos apps para consultar os aplicativos. A verificação manual e o botão para atualizar o Hub ficam somente em Configurações.
+Uma tela de aplicativos. Use Adicionar para incluir um programa manualmente, por link do GitHub ou reconhecer os instalados. Use Verificar atualizações para consultar os aplicativos. A verificação manual e o botão para atualizar o Hub ficam somente em Configurações.
 
 Configurações: pasta para novas instalações Prates, aparência clara/escura e consulta de atualizações ao abrir. Instalações existentes mantêm seu destino. Instaladores de terceiros podem solicitar o local na própria janela.
 
@@ -20,4 +22,4 @@ Downloads Prates e do Hub exigem assinatura e SHA-256. Terceiros exigem versão 
 
 Fontes oficiais de terceiros: https://github.com/GustavoReset/ResetExplode e https://github.com/upscayl/upscayl . Os programas são baixados dos respectivos projetos; seus executáveis não acompanham a distribuição do Hub. O novo desenho foi implementado no Hub, sem copiar código ou imagens desses projetos.
 
-Windows 10 x64 ou superior; Cam Lite exige Windows 11. Setup ou ZIP portátil, com .NET incluso. Catálogos anteriores preservados. Fontes privadas; dados pessoais e chaves privadas não acompanham a entrega.
+Windows 10 x64 ou superior; Cam Lite exige Windows 11. Setup ou ZIP portátil, com .NET 8.0.33 incluso. Catálogos anteriores preservados. Fontes privadas; dados pessoais e chaves privadas não acompanham a entrega.
